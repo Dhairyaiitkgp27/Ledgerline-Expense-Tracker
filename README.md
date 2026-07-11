@@ -6,7 +6,7 @@
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-charts-22B5BF?style=for-the-badge)
 
-**🔗 Live demo:** _add your deployed link here_ &nbsp;•&nbsp; **💻 Source:** this repository
+**🔗 Live demo:https://ledgerline-expense-tracker.vercel.app/&nbsp;•&nbsp; 
 
 ---
 
@@ -45,19 +45,7 @@
 | **Icons** | lucide-react |
 | **Styling** | Custom CSS (no UI framework) |
 
-## 📸 Screenshots
 
-> _Add a screenshot or two here._ Tip: open the app, take a screenshot, then **drag the image straight into this file while editing it on GitHub** — GitHub uploads it and inserts the link automatically.
-
-## 🚀 Run it locally
-
-Requires [Node.js](https://nodejs.org/) 18 or newer.
-
-```bash
-npm install     # install dependencies
-npm run dev     # start the dev server, then open the link it prints
-npm run build   # create a production build
-```
 
 ## 🎯 What this project demonstrates
 
@@ -68,4 +56,4 @@ npm run build   # create a production build
 
 ---
 
-Built by **Your Name** &nbsp;•&nbsp; [GitHub](https://github.com/your-username) &nbsp;•&nbsp; [LinkedIn](https://linkedin.com/in/your-profile)
+Built by **Dhairya** &nbsp;•&nbsp; 
