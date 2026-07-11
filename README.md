@@ -6,7 +6,7 @@
 ![Vite](https://img.shields.io/badge/Vite-5-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-charts-22B5BF?style=for-the-badge)
 
-**🔗 Live demo:https://ledgerline-expense-tracker.vercel.app/&nbsp;•&nbsp; 
+**🔗 Live demo:https://ledgerline-expense-tracker.vercel.app/
 
 ---
 
